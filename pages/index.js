@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.container}>
-        <h1>Hello Next World! Its Parvathi</h1>
+        <h1>Hello Next World! Concentrix</h1>
         </div>
       </main>
     </>
