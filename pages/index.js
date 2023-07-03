@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.container}>
-        <h1>Hello Next World! Concentrix</h1>
+        <h1>Hello Next World! Concentrix - CNX</h1>
         </div>
       </main>
     </>
